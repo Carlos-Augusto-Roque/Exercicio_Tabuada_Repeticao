@@ -1,0 +1,13 @@
+C:\Users\PC - CARLOS\Desktop\DEV\Exercicio_Tabuada_Repeticao\bin\Debug\netcoreapp3.1\Exercicio_Tabuada_Repeticao.exe
+C:\Users\PC - CARLOS\Desktop\DEV\Exercicio_Tabuada_Repeticao\bin\Debug\netcoreapp3.1\Exercicio_Tabuada_Repeticao.deps.json
+C:\Users\PC - CARLOS\Desktop\DEV\Exercicio_Tabuada_Repeticao\bin\Debug\netcoreapp3.1\Exercicio_Tabuada_Repeticao.runtimeconfig.json
+C:\Users\PC - CARLOS\Desktop\DEV\Exercicio_Tabuada_Repeticao\bin\Debug\netcoreapp3.1\Exercicio_Tabuada_Repeticao.runtimeconfig.dev.json
+C:\Users\PC - CARLOS\Desktop\DEV\Exercicio_Tabuada_Repeticao\bin\Debug\netcoreapp3.1\Exercicio_Tabuada_Repeticao.dll
+C:\Users\PC - CARLOS\Desktop\DEV\Exercicio_Tabuada_Repeticao\bin\Debug\netcoreapp3.1\Exercicio_Tabuada_Repeticao.pdb
+C:\Users\PC - CARLOS\Desktop\DEV\Exercicio_Tabuada_Repeticao\obj\Debug\netcoreapp3.1\Exercicio_Tabuada_Repeticao.csprojAssemblyReference.cache
+C:\Users\PC - CARLOS\Desktop\DEV\Exercicio_Tabuada_Repeticao\obj\Debug\netcoreapp3.1\Exercicio_Tabuada_Repeticao.AssemblyInfoInputs.cache
+C:\Users\PC - CARLOS\Desktop\DEV\Exercicio_Tabuada_Repeticao\obj\Debug\netcoreapp3.1\Exercicio_Tabuada_Repeticao.AssemblyInfo.cs
+C:\Users\PC - CARLOS\Desktop\DEV\Exercicio_Tabuada_Repeticao\obj\Debug\netcoreapp3.1\Exercicio_Tabuada_Repeticao.csproj.CoreCompileInputs.cache
+C:\Users\PC - CARLOS\Desktop\DEV\Exercicio_Tabuada_Repeticao\obj\Debug\netcoreapp3.1\Exercicio_Tabuada_Repeticao.dll
+C:\Users\PC - CARLOS\Desktop\DEV\Exercicio_Tabuada_Repeticao\obj\Debug\netcoreapp3.1\Exercicio_Tabuada_Repeticao.pdb
+C:\Users\PC - CARLOS\Desktop\DEV\Exercicio_Tabuada_Repeticao\obj\Debug\netcoreapp3.1\Exercicio_Tabuada_Repeticao.genruntimeconfig.cache
